@@ -1,0 +1,6 @@
+Traders achieve highest average PnL (67.89) in Extreme Greed periods, suggesting bullish strategies.
+Highest trade volume ($483,324,789.79) occurs in Fear periods, indicating increased market activity.
+High-leverage trades in Greed periods are riskier, leading to frequent losses. Recommend reducing leverage.
+Size USD is the most important predictor of PnL (Importance: 0.25). Focus on optimizing this factor.
+Cluster 1.0 traders (avg leverage: 1.00, avg PnL: 191.20) perform best. Emulate their strategy.
+Sentiment momentum (7-day MA > current value) is strongest in Greed periods, signaling potential trend reversals.
